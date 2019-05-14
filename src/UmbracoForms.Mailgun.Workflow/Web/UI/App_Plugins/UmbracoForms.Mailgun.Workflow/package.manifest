@@ -1,0 +1,6 @@
+﻿﻿{
+    javascript: [
+	    '~/App_Plugins/UmbracoForms.Mailgun.Workflow/Template.Controller.js',
+		'~/App_Plugins/UmbracoForms.Mailgun.Workflow/templatePickerResource.js'
+    ]
+}
